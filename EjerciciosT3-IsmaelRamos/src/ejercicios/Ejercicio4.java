@@ -16,7 +16,7 @@ public class Ejercicio4 {
 		
 		
 		// calcular maximo comun divisor
-		for (mcd--)
+		//for (mcd--)
 
 	}
 
