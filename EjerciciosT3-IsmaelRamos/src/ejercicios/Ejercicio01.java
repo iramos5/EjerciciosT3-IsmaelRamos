@@ -28,6 +28,9 @@ public class Ejercicio01 {
 		segundosIncr = scan.nextInt(); // guardar segundos a incrementar
 		
 		// aumentar segundos
+		segundos = segundos + segundosIncr; // incrementar los segundos
+		
+		
 		
 		
 		// resultado
